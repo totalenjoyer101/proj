@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rekins>
+    <rekinaNumurs>R-2026-001</rekinaNumurs>
+    <datums>2026-10-09</datums>
+
+    <pardevejs>
+        <nosaukums>SIA "Paraugs"</nosaukums>
+        <registracijasNumurs>40001234567</registracijasNumurs>
+        <PVNNumurs>LV40001234567</PVNNumurs>
+    </pardevejs>
+
+    <pircejs>
+        <nosaukums>SIA "Klients"</nosaukums>
+        <registracijasNumurs>40109876543</registracijasNumurs>
+    </pircejs>
+
+    <preces>
+        <prece>
+            <nosaukums>Konsultāciju pakalpojums</nosaukums>
+            <daudzums>1</daudzums>
+            <cenaBezPVN>100.00</cenaBezPVN>
+            <PVNLikme>21</PVNLikme>
+            <summaBezPVN>100.00</summaBezPVN>
+        </prece>
+    </preces>
+
+    <kopsavilkums>
+        <summaBezPVN>100.00</summaBezPVN>
+        <PVNSumma>21.00</PVNSumma>
+        <summaArPVN>121.00</summaArPVN>
+    </kopsavilkums>
+</rekins>
